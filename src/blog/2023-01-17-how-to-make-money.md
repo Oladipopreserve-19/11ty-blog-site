@@ -10,7 +10,7 @@ date: 2023-01-17T20:05:53.000Z
 tags:
   - post
 image: /assets/blog/group-36460.png
-imageAlt: me
+imageAlt: Me
 ---
 
 
